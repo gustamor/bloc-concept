@@ -10,3 +10,4 @@
 *.pb.cc linguist-detectable=false
 *.o linguist-detectable=false
 
+lib/** linguist-vendored
